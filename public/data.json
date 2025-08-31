@@ -1,0 +1,157 @@
+{
+  "timeline": [
+    {
+      "year": 1990,
+      "event": "China registers its top-level domain .CN",
+      "wifiPenetration": 0,
+      "primaryUses": [
+        "Academic research",
+        "Email communication"
+      ],
+      "mainSoftware": [
+        "Telnet",
+        "FTP",
+        "Early email clients"
+      ]
+    },
+    {
+      "year": 1994,
+      "event": "China gets full functionality Internet connection",
+      "wifiPenetration": 0,
+      "primaryUses": [
+        "Academic networking",
+        "International communication"
+      ],
+      "mainSoftware": [
+        "Netscape Navigator",
+        "Eudora",
+        "IRC"
+      ]
+    },
+    {
+      "year": 1997,
+      "event": "China Internet Network Information Center (CNNIC) established",
+      "wifiPenetration": 0,
+      "primaryUses": [
+        "Information browsing",
+        "Email",
+        "BBS"
+      ],
+      "mainSoftware": [
+        "Internet Explorer",
+        "QQ",
+        "BBS clients"
+      ]
+    },
+    {
+      "year": 2000,
+      "event": "Commercial Internet use begins to expand rapidly",
+      "wifiPenetration": 0.1,
+      "primaryUses": [
+        "Web browsing",
+        "Email",
+        "Instant messaging"
+      ],
+      "mainSoftware": [
+        "QQ",
+        "Sina Portal",
+        "Baidu"
+      ]
+    },
+    {
+      "year": 2003,
+      "event": "SARS outbreak accelerates Internet adoption",
+      "wifiPenetration": 1.5,
+      "primaryUses": [
+        "News",
+        "E-commerce",
+        "Online gaming"
+      ],
+      "mainSoftware": [
+        "Taobao",
+        "Alipay",
+        "World of Warcraft"
+      ]
+    },
+    {
+      "year": 2008,
+      "event": "Mobile Internet begins to grow alongside Beijing Olympics",
+      "wifiPenetration": 15,
+      "primaryUses": [
+        "Social media",
+        "Mobile apps",
+        "Video streaming"
+      ],
+      "mainSoftware": [
+        "Sina Weibo",
+        "Youku",
+        "WeChat"
+      ]
+    },
+    {
+      "year": 2013,
+      "event": "4G licenses issued, mobile Internet boom",
+      "wifiPenetration": 45,
+      "primaryUses": [
+        "Mobile payments",
+        "Social networking",
+        "Ride-hailing"
+      ],
+      "mainSoftware": [
+        "WeChat",
+        "Alipay",
+        "Didi"
+      ]
+    },
+    {
+      "year": 2018,
+      "event": "5G trials begin, Internet penetration exceeds 60%",
+      "wifiPenetration": 75,
+      "primaryUses": [
+        "Short video",
+        "Live streaming",
+        "Mobile shopping"
+      ],
+      "mainSoftware": [
+        "TikTok/Douyin",
+        "Pinduoduo",
+        "Meituan"
+      ]
+    },
+    {
+      "year": 2023,
+      "event": "5G widespread adoption, AI integration in daily life",
+      "wifiPenetration": 92,
+      "primaryUses": [
+        "AI assistants",
+        "Smart home",
+        "Telemedicine"
+      ],
+      "mainSoftware": [
+        "ChatGPT-like services",
+        "Health codes",
+        "Facial recognition systems"
+      ]
+    },
+    {
+      "year": 2025,
+      "event": "Predicted: Integrated digital life ecosystem",
+      "wifiPenetration": 98,
+      "primaryUses": [
+        "IoT connectivity",
+        "Virtual reality",
+        "Autonomous systems"
+      ],
+      "mainSoftware": [
+        "Metaverse platforms",
+        "AI personal assistants",
+        "Smart city apps"
+      ]
+    }
+  ],
+  "stats": {
+    "totalUsers": "1.05B",
+    "penetrationRate": "75.6%",
+    "mobileUsers": "1.04B"
+  }
+}
